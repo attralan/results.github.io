@@ -1,0 +1,21 @@
+[
+  {
+    "index": "1234567",
+    "name": "Anura Perera",
+    "subjects": {
+      "Mathematics": 85,
+      "Physics": 78,
+      "Chemistry": 92
+    }
+  },
+  {
+    "index": "1234568",
+    "name": "Kasun Silva",
+    "subjects": {
+      "Mathematics": 60,
+      "Physics": 55,
+      "Chemistry": 72
+    }
+  }
+  // More students...
+]
